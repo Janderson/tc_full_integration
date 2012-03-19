@@ -1,0 +1,35 @@
+======= PROJETO DMIX =====
+
+Propoe integrar de forma simples e prática o interesse do stackholder(dono do projeto) e sua implementação(software).
+
+Apartir de uma ferramenta de tickets integrada com ferramentas testes BDD permitir que o stackholder possa além de acompanhar o desenvolvimento, ter uma visão mais clara e próxima de como seu aplicativo vai(ou deve) ficar.
+
+Por isso o DMIX é uma software baseado em metodologias ágeis, ou seja, algumas funcionalidades são:
+
+* Gestão de projetos.
+* Gestão de histórias do usuário.
+* Gerenciamento de Critérios de Aceitação(Testes) por história do usuário.
+* tickets de bug, melhoria por história do usuário.
+* backlog de projeto.
+* sprint(entrega com ciclo de tempos configuráveis).
+* conceito de entregue integrado com a ferramenta de TDD(cucumber).
+
+
+
+pretendemos criar ainda um plataforma(servidor) que integra o git do desenvolvedor e uma gem com configurações do tipo:
+
+* desenvolvedor:
+uma configuração na maquina do desenvolvedor para carregar as história dos usuários e com isso gerar os testes na máquina dele.
+
+* servidor:
+que sincroniza com a plataforma principal a versão que está rodando no servidor de aplicação, mostrando aos interessados se a versão produção tem um determinado bug, ou já tem uma feature nova.
+
+
+O projeto d_mix tenta criar um nível de abstração entre o desenvolvedor e seu gerente de projetos, para que os dois possam "conversar na mesma língua" auxiliando principalmente pessoal que trabalha a distancia.
+
+
+======= OUTRAS IDÉIAS =======
+
+usar tags do cucumber para gerenciar periodicidade dos testes ex: @local(roda só os testes que tiverem essa tag na máquina do desenvolvedor), @servidor(roda em job no servidor), @prerealease(antes de lançar uma revisão para deploy).
+
+criar um banco de testes e passos padrões para simplificar novos testes. :D

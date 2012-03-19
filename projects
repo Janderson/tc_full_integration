@@ -1,0 +1,33 @@
+
+[indentation]
+indent_width=2
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+indent_mode=2
+
+[project]
+name=Tc full integration
+base_path=/home/janderson/desenvolvimento/github/tc_full_integration
+description=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=1
+FILE_NAME_0=545;HTML;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/views/projetos/_form.html.erb;0;2
+FILE_NAME_1=183;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/features/step_definitions/dado_steps.rb;0;2
+FILE_NAME_2=333;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/features/step_definitions/entao_steps.rb;0;2
+FILE_NAME_3=76;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/features/step_definitions/quando_steps.rb;0;2
+FILE_NAME_4=1212;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/features/step_definitions/usuarios_steps.rb;0;2
+FILE_NAME_5=14;None;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/features/gerenciamento_tags.feature;0;2
+FILE_NAME_6=55;None;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/features/funcionalidade.feature;0;2
+FILE_NAME_7=171;None;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/features/projetos.feature;0;2
+FILE_NAME_8=62;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/features/factories/usuario.rb;0;2
+FILE_NAME_9=385;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/models/usuario.rb;0;2
+FILE_NAME_10=179;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/models/projeto.rb;0;2
+FILE_NAME_11=165;HTML;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/views/projetos/show.html.erb;0;2
+FILE_NAME_12=36;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/config/routes.rb;0;2
+FILE_NAME_13=1118;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/controllers/projetos_controller.rb;0;2

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/Fixtures.html
+
+one:
+  nome: MyString
+  descricao: MyText
+  usuario_id: 1
+
+two:
+  nome: MyString
+  descricao: MyText
+  usuario_id: 1
