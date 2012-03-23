@@ -1,5 +1,4 @@
 [setup]
-ln -s public public_html
 mv public/flx_dispatch.fcgi public/dispatch.fcgi
 chmod 705 public/dispatch.fcgi
 mkdir log
