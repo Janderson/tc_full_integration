@@ -16,7 +16,7 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=1
+current_page=19
 FILE_NAME_0=545;HTML;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/views/projetos/_form.html.erb;0;2
 FILE_NAME_1=183;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/features/step_definitions/dado_steps.rb;0;2
 FILE_NAME_2=333;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/features/step_definitions/entao_steps.rb;0;2
@@ -27,7 +27,14 @@ FILE_NAME_6=55;None;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_in
 FILE_NAME_7=171;None;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/features/projetos.feature;0;2
 FILE_NAME_8=62;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/features/factories/usuario.rb;0;2
 FILE_NAME_9=385;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/models/usuario.rb;0;2
-FILE_NAME_10=179;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/models/projeto.rb;0;2
-FILE_NAME_11=165;HTML;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/views/projetos/show.html.erb;0;2
-FILE_NAME_12=36;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/config/routes.rb;0;2
-FILE_NAME_13=1118;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/controllers/projetos_controller.rb;0;2
+FILE_NAME_10=186;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/models/projeto.rb;0;2
+FILE_NAME_11=314;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/test/unit/projeto_test.rb;0;2
+FILE_NAME_12=165;HTML;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/views/projetos/show.html.erb;0;2
+FILE_NAME_13=36;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/config/routes.rb;0;2
+FILE_NAME_14=1118;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/controllers/projetos_controller.rb;0;2
+FILE_NAME_15=0;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/test/unit/usuario_test.rb;0;2
+FILE_NAME_16=32;YAML;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/test/fixtures/usuarios.yml;0;2
+FILE_NAME_17=795;Ruby;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/Gemfile;0;2
+FILE_NAME_18=1252;HTML;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/views/layouts/application.html.erb;0;2
+FILE_NAME_19=1053;HTML;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/views/inicial/index.html.erb;0;2
+FILE_NAME_20=0;HTML;0;16;1;1;0;/home/janderson/desenvolvimento/github/tc_full_integration/app/views/usuarios/shared/_links.erb;0;2
