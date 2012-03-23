@@ -19,10 +19,12 @@ test: &test
   timeout: 5000
 
 production:
-  adapter: sqlite3
-  database: db/production.sqlite3
-  pool: 5
-  timeout: 5000
+  adapter: mysql
+  database: FLX_DB_NAME
+  host: FLX_DB_HOST
+  username: FLX_DB_USER
+  password: FLX_DB_PASS
+  encoding: utf8
 
 cucumber:
   <<: *test
